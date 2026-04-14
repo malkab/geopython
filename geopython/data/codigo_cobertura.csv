@@ -1,0 +1,51 @@
+id_cobertura,cobertura_desc
+101,Edificación
+102,Zona verde artificial y arbolado urbano
+104,Zonas pavimentadas o selladas
+105,Piscina
+106,Balsas y estanques
+111,Otras construcciones
+112,Construcción deportiva
+121,Suelo no edificado
+122,Zona abierta
+132,Zonas de extracción
+133,Zonas de vertido
+140,Red de transporte terrestre sin catalogar
+141,Autopistas y autovías
+142,Carreteras
+143,Vías urbanas
+144,Caminos y sendas
+200,Cultivos
+210,Cultivos herbáceos
+222,Frutales cítricos
+223,Frutales no cítricos
+224,Frutos secos
+231,Viñedo
+232,Olivar
+251,Viñedo-olivar
+252,Viñedo-frutal
+254,Asociación cítricos-viñedo
+256,Olivar-frutal
+257,Asociación olivar-cítricos
+258,Asociación cítricos-frutales
+259,Asociación cítricos-frutales de cáscara
+280,Huerta
+290,Prados
+300,Pastizal
+301,Pastizal-matorral
+302,Pasto arbolado
+310,Arbolado
+312,Frondosas caducifolias
+313,Frondosas perennifolias
+316,Coníferas
+320,Matorral
+330,Terrenos con escasa o nula vegetación
+331,"Playas, dunas y arenales"
+421,Marismas
+423,Salinas
+500,Coberturas de agua
+511,Cursos de agua
+513,Lagos y lagunas
+514,Embalses
+522,Estuarios
+523,Mares y océanos

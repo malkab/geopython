@@ -1,0 +1,50 @@
+id_uso,uso_desc
+1110,Producción agrícola comercial
+1120,Infraestructuras agrícolas
+1330,Otras industrias extractivas
+1410,Acuicultura
+1600,Dehesa
+2000,Producción secundaria
+2110,Fabricación de productos textiles
+2120,Fabricación de madera y productos basados en la madera
+2130,Fabricación de pasta papelera y de papel
+2140,Fabricación de coque y productos refinados de petróleo y de combustible nuclear
+2160,Fabricación de metales básicos y metalurgia
+2170,Fabricación de productos minerales no metálicos
+2210,Fabricación de maquinaria
+2310,"Elaboración de alimentos, bebidas y productos de tabaco"
+2350,Fabricación de otros productos finales ligeros
+2400,Producción de energía
+2442,Solar
+3110,"Comercio mayorista y minorista, reparación de vehículos y de efectos personales y enseres domésticos"
+3131,Alojamiento
+3132,Restauración
+3133,Camping
+3210,Servicios financieros y de seguros
+3220,"Servicios profesionales, técnicos y científicos"
+3250,"Otros servicios financieros, profesionales y de información"
+3310,"Servicios de administración pública, de defensa y de seguridad social"
+3320,Servicios de educación
+3330,Servicios sanitarios y sociales
+3340,Servicios religiosos
+3351,Cementerio
+3410,Servicios culturales
+3421,Parque recreativo
+3422,Ocio
+3431,Campo de golf
+3432,Instalaciones deportivas
+3441,Parque urbano
+3442,Zonas recreativas
+3450,Otras actividades recreativas
+4111,Vías
+4112,Áreas de estacionamiento
+4113,Estaciones y áreas de servicio e infraestructuras
+4140,Transporte marítimo y por vías navegables interiores
+4200,Servicios logísticos y de almacenamiento
+4310,"Servicios de distribución de energía eléctrica, gas y energía térmica"
+4321,Depuradoras y potabilizadoras
+5000,Uso residencial
+6100,Áreas transitorias
+6310,Áreas naturales terrestres
+6320,Áreas naturales acuáticas
+6600,Uso desconocido
